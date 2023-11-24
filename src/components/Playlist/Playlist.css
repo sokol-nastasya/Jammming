@@ -1,0 +1,14 @@
+.btn-save {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 14px;
+    padding-right: 14px;
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+    border-radius: 3px solid black;
+    font-family: 'Pacifico', cursive;
+}

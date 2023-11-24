@@ -1,0 +1,19 @@
+.app {
+  margin: 10px;
+  display: block;
+  text-align: center;
+  padding: 10px;
+  font-size: 40px;
+  font-family: 'Pacifico', cursive;
+
+}
+
+.highlighted {
+  font-size: 40px;
+  color: blueviolet;
+}
+
+.result {
+  display: flex;
+  justify-content: space-around;
+}

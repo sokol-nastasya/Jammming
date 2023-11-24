@@ -1,0 +1,39 @@
+
+.card {
+    margin: 2px;
+    width: 500px;
+}
+
+.track_card {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 5px;
+    padding: 5px;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.photo {
+    display: block;
+    text-align: center;
+}
+
+
+.about {
+    display: block;
+    text-align: center;
+} 
+
+.title {
+    display: block;
+    text-align: center;
+}
+
+.btn_add {
+    border-radius: 50%;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+}
